@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="textview3">TextView</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">Login</string>
+    <string name="hey_welcome_to">Hey ,Welcome To</string>
+    <string name="wear">Wear</string>
+    <string name="design">Design</string>
+    <string name="and">And</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="text">text</string>
+
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+    <string name="my_title">MY TITLE</string>
+    <string name="todo3">TODO</string>
+    <string name="_455">455</string>
+    <string name="textview4">TextView</string>
+    <string name="textview6">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="textview">newst</string>
+    <string name="title_activity_editactivity">editactivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
